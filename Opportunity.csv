@@ -1,0 +1,8 @@
+"Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
+127bdd39-090d-4f6e-9918-07c9892b72f0,b9c82274-dc7c-4cf5-a08d-febbf0213d2f,"#N/A",2020-08-27,"#N/A","#N/A",Pipeline,"#N/A",Tech Opp5,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,"#N/A"
+3a124c45-4689-41d9-891f-b71787a7a08d,1f231ff2-cedc-4109-b887-e43599ea6e73,317588.14,2021-09-01,"#N/A","#N/A",Pipeline,"#N/A",Renewal Opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",true,Prospecting,"#N/A"
+3a7d900a-092f-4fcf-8a75-83c9482e0dea,1f231ff2-cedc-4109-b887-e43599ea6e73,"#N/A",2021-08-31,"#N/A","#N/A",Pipeline,"#N/A",Renewal Opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",true,Prospecting,"#N/A"
+3cc36e99-4d0b-4562-be5a-e777d85efdab,1f231ff2-cedc-4109-b887-e43599ea6e73,333121.39,2020-09-30,"#N/A","#N/A",Pipeline,"#N/A",Product opp,"#N/A",20.0,true,false,"#N/A",false,"#N/A",false,Needs Analysis,"#N/A"
+630de1b3-23c5-42e4-84d9-b182bef2b71b,1f231ff2-cedc-4109-b887-e43599ea6e73,317588.14,2021-09-01,"#N/A","#N/A",Pipeline,"#N/A",Renewal Opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",true,Prospecting,"#N/A"
+712b0978-7207-4f94-9658-578fc50687c9,1f231ff2-cedc-4109-b887-e43599ea6e73,"#N/A",2020-09-02,"#N/A","#N/A",Pipeline,"#N/A",Amendment for contract #00000108,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,"#N/A"
+a3111226-2565-4006-95a2-02c63a64fe6e,a854c76c-0a3d-4427-a635-2e7ec7a32277,"#N/A",2020-08-27,"#N/A","#N/A",Pipeline,"#N/A",Test opp3,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,"#N/A"
